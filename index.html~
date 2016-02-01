@@ -69,7 +69,7 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 align="right" style="font-size: 55px;">Ile trzeba oczekiwać zmiany na lepsze?<br>
+                <h1 align="right" style="font-size: 50px;">Ile trzeba oczekiwać zmiany na lepsze?<br>
 		Jeśli chcesz czekać - to długo.</h1>
                 <hr>
                 <p>[chytre zdanie o zakresie] Tradycyjną Medycyną Chińską to holistyczne i indywidualne podejście do pacjenta. Nie ma w niej magicznej pigułki na ból w lewym kolanie. Są akupunktura, akupresura, dieta, gimnastyka qigong, termopunktura i ziołolecznictwo.</p>
@@ -81,12 +81,13 @@
     <section class="bg-primary" id="about">
         <div class="container">
             <div class="row">
+		<div id="container" width="150px">
+		    <img src="img/iza.jpg" alt="" width="100%" />
+		</div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Izabela Miętka </h2>
+                    <h2 class="section-heading">Iza Miętka </h2>
                     <hr class="light">
-<div id="container">
-    <!--<img src="img/iza.jpg" alt="" />-->
-</div>
+
                     <p class="text-faded">
 [to było zdecydowanie za długie, więc zostawiłem tylko począteczek] Tradycyjną Medycyną Chińską  interesuję się od prawie 10 lat. Rozpoczęłam od zastosowania we własnym życiu zaleceń związanych z odżywianiem oraz ziołami. Potem zaczęłam intensywnie studiować tajniki Tradycyjnej Medycyny Chińskiej, w tym akupunkturę oraz zioła. Ukończyłam 4-letni kurs podstawowy Tradycyjnej Medycyny Chińskiej w Krakowie oraz szereg dodatkowych praktycznych i teoretycznych kursów z tego zakresu, w sumie ponad tysiąc godzin wykładów oraz zajęć praktycznych. Cały czas kontynuuję pasjonujące zgłębianie tajników Tradycyjnej Medycyny Chińskiej.
 </p>
@@ -113,28 +114,28 @@
                         <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
 			<img src="img/acu.png" width="100%" alt="" />
                         <h3>Akupunktura</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                        <p class="text-muted">[..no nie wiem co tu.. że nie boli? :)] [dobry pomysł z tymi chińskimi znakami? jak ok, to trzeba by zrobić je jakoś jednolicie]</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <img src="img/plodnosc.jpg" width="100%" alt="" />
                         <h3>Płodność</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                        <p class="text-muted">[kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów]</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Leczenie bólu</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <p class="text-muted">[kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów]</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
                         <h3>Leczenie stresu [inaczej raczej]</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
+                        <p class="text-muted">[kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów, kilka mądrych słów]</p>
                     </div>
                 </div>
             </div>
@@ -183,7 +184,7 @@
                                     Miłosz Dobromir
                                 </div>
                                 <div class="project-name">
-                                    Z Miłoszem to sprawa jest taka, że :)
+                                    Z Miłoszem to sprawa jest taka, że ...
                                 </div>
                             </div>
                         </div>
