@@ -1,2 +1,2 @@
 # izamietka.github.io
-strona Izy.
+strona Izy
