@@ -69,11 +69,11 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 align="right" style="font-size: 50px;">Ile trzeba oczekiwać zmiany na lepsze?<br>
+                <h1 align="right" style="font-size: 45px;">Ile trzeba oczekiwać zmiany na lepsze?<br>
 		Jeśli chcesz czekać - to długo.</h1>
                 <hr>
                 <p>[chytre zdanie o zakresie] Tradycyjną Medycyną Chińską to holistyczne i indywidualne podejście do pacjenta. Nie ma w niej magicznej pigułki na ból w lewym kolanie. Są akupunktura, akupresura, dieta, gimnastyka qigong, termopunktura i ziołolecznictwo.</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Więcej</a>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Jestem</a>
             </div>
         </div>
     </header>
@@ -81,23 +81,22 @@
     <section class="bg-primary" id="about"><!--BG-PRIMARY POTRZEBNE?-->
         <div class="container">
             <div class="row">
-		<div class="col-lg-8 col-lg-offset-2 text-center">
+		<div class="col-lg-12 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Iza Miętka</h2>
                     <hr class="primary">
                     <!--<p>Gotowi na zmiany?[jakieś zdanie zachęcające?]</p>-->
                 </div>
 		
-		<div class="col-lg-4 col-lg-offset-2 text-center">
-                    <img src="img/iza.jpg" alt="" height="100%" />
+		<div class="col-lg-6 col-lg-offset-2 text-center">
+                    <img src="img/iza.jpg" alt="" width="100%" />
                 </div>
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-6 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p>[to było zdecydowanie za długie, więc zostawiłem tylko począteczek] Tradycyjną Medycyną Chińską  interesuję się od prawie 10 lat. Rozpoczęłam od zastosowania we własnym życiu zaleceń związanych z odżywianiem oraz ziołami. Potem zaczęłam intensywnie studiować tajniki Tradycyjnej Medycyny Chińskiej, w tym akupunkturę oraz zioła. Ukończyłam 4-letni kurs podstawowy Tradycyjnej Medycyny Chińskiej w Krakowie oraz szereg dodatkowych praktycznych i teoretycznych kursów z tego zakresu, w sumie ponad tysiąc godzin wykładów oraz zajęć praktycznych. Cały czas kontynuuję pasjonujące zgłębianie tajników Tradycyjnej Medycyny Chińskiej.</p>
                 </div>
-
-
+		<div class="col-lg-12 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-default btn-xl">Terapie</a>
-                <!--</div>-->
+                </div>
             </div>
         </div>
     </section>
@@ -255,7 +254,7 @@
     <section id="contact">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <div class="col-lg-12 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Kontakt</h2>
                     <hr class="primary">
                     <p>Gotowi na zmiany?[jakieś zdanie zachęcające?]</p>
