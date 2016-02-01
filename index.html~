@@ -1,26 +1,276 @@
-<html>
-  <head>
-    <title>Sample "Hello, World" Application</title>
-  </head>
-  <body bgcolor=white>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="knck">
 
-    <table border="0" cellpadding="10">
-      <tr>
-        <td>
-          <img src="images/springsource.png">
-        </td>
-        <td>
-          <h1>izaaaaa</h1>
-        </td>
-      </tr>
-    </table>
+    <title>i'm</title>
 
-    <p>This is the home page for the HelloWorld Web application. </p>
-    <p>To prove that they work, you can execute either of the following links:
-    <ul>
-      <li>To a <a href="hello.jsp">JSP page</a>.
-      <li>To a <a href="hello">servlet</a>.
-    </ul>
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
 
-  </body>
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="page-top">
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Iza Miętka</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">Jestem</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Terapie[??]</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Szczęśliwi klienci</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Kontakt</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>Ile trzeba oczekiwać zmiany na lepsze?</h1><br>
+		<h1>Jeśli chcesz czekać - to długo.</h1>
+                <hr>
+                <p>[miłe zdanie o zakresie] Tradycyjna Medycyna Chińska</p>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Więcej</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Izabela Miętka </h2>
+                    <hr class="light">
+                    <p class="text-faded">Tradycyjną Medycyną Chińską to holistyczne i indywidualne podejście do pacjenta. Nie ma w niej magicznej pigułki na ból w lewym kolanie. Są akupunktura, akupresura, dieta, gimnastyka qigong, termopunktura i ziołolecznictwo. <br>
+Tradycyjną Medycyną Chińską  interesuję się od prawie 10 lat. Rozpoczęłam od zastosowania we własnym życiu zaleceń związanych z odżywianiem oraz ziołami. Potem zaczęłam intensywnie studiować tajniki Tradycyjnej Medycyny Chińskiej, w tym akupunkturę oraz zioła. Ukończyłam 4-letni kurs podstawowy Tradycyjnej Medycyny Chińskiej w Krakowie oraz szereg dodatkowych praktycznych i teoretycznych kursów z tego zakresu, w sumie ponad tysiąc godzin wykładów oraz zajęć praktycznych. Cały czas kontynuuję pasjonujące zgłębianie tajników Tradycyjnej Medycyny Chińskiej.
+<br><br>
+Dla każdego Pacjenta wybieram indywidualną, dostosowaną do jego potrzeb terapię. Podstawę leczenia stanowi akupunktura, do tego bańki oraz moksa. Stosuję również zioła do gotowania lub parzenia oraz gotowe receptury ziołowe w postaci kulek. Najczęściej daję również wskazówki dotyczące sposobu odżywiania oraz stylu życia, które są ważnym elementem wspierającym terapię. Najczęściej bardzo proste zalecenia dietetyczne, znacznie poprawiają pracę układu trawiennego, a dzięki temu stan ogólny Pacjenta. W swojej praktyce stosuję tradycyjną chińską technikę Gua Sha. Polega ona na skrobaniu pokrytej oliwą powierzchni ciała odpowiednim narzędziem wykonanym z rogu, plastiku lub drewna. W miejscach zastojów często pojawią się zaczerwienienie, przekrwienie lub wybroczyny. Jest to świetna technika pomocna w leczeniu bólu - szczególnie karku, barków, pleców i różnych bólach mięśniowych, a także przy przeziębieniach czy grypie. Zazwyczaj Pacjenci po zabiegu czują ulgę, zrelaksowanie czy lekkość utrzymującą się przez dłuższy czas. Gua Sha może być stosowana również profilaktycznie w celu regularnego usuwania zastojów.
+<br><br>
+Ważną częścią mojej działalności jest praca z dziećmi. Myślę, że istotne jest wspieranie nowego życia już od momentu poczęcia, a nawet chwilę wcześniej - pracując z przyszłymi mamami oraz kobietami w ciąży. Wszystko, co robimy dla najmłodszych dzieci, a są to najczęściej bardzo proste i podstawowe techniki, procentują na ich stan zdrowia w dorosłym życiu. Ważnym elemetem tej pracy jest dobra współpraca oraz edukacja rodziców w zakresie efektywnego wspierania dzieci w rozwoju i profilaktyce zdrowia. U małych dzieci do 6-7 roku życia stosuję pediatryczny masaż Tuina, który przynosi bardzo dobre efekty w przypadku częstych infekcji, problemów z brzuszkiem, alergii czy nadpobudliwości, a także w profilaktyce zdrowia. </p>
+
+                    <a href="#" class="btn btn-default btn-xl">Terapie</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Terapie</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
+                        <h3>Akupunktura</h3>
+                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3>Płodność</h3>
+                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>Leczenie bólu</h3>
+                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Leczenie stresu [inaczej raczej]</h3>
+                        <p class="text-muted">You have to make your websites with love these days!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Jutka Agnieszka
+                                </div>
+                                <div class="project-name">
+                                    Historia Jutki jest długa.. 
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Krzyztof Michał
+                                </div>
+                                <div class="project-name">
+                                    Krzyś gra w tenisa i ma stresującą pracę. Terapia pomogła mu zwalczyć ból pleców i przesypiać noce.
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Miłosz Dobromir
+                                </div>
+                                <div class="project-name">
+                                    Z Miłoszem to sprawa jest taka, że jest :)
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Shakira
+                                </div>
+                                <div class="project-name">
+                                    Shakira jest złośliwa i nieustępliwa. Terapia nie pomogła jej w niczym...
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    XXX
+                                </div>
+                                <div class="project-name">
+                                    YYY
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="#" class="portfolio-box">
+                        <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    ZZZ
+                                </div>
+                                <div class="project-name">
+                                    WWW
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <aside class="bg-dark">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>[chcemy więcej fot i historyjek?]</h2>
+                <a href="#" class="btn btn-default btn-xl wow tada">[na nowej podstronie?]</a>
+            </div>
+        </div>
+    </aside>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Kontakt</h2>
+                    <hr class="primary">
+                    <p>Gotowi na zmiany?</p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
+                    <p>+48-502-07-37-17</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p><a href="mailto:kubizka@o2.pl">kubizka@o2.pl</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/creative.js"></script>
+</body>
 </html>
