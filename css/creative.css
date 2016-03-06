@@ -191,7 +191,7 @@ header .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 header .header-content .header-content-inner hr {
@@ -199,8 +199,8 @@ header .header-content .header-content-inner hr {
 }
 
 header .header-content .header-content-inner p {
-    margin-bottom: 50px;
-    font-size: 16px;
+    margin-bottom: 40px;
+    font-size: 14px;
     font-weight: 300;
     color: rgba(255,255,255,.7);
 }
@@ -276,7 +276,7 @@ header .header-content .header-content-inner p {
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
     position: absolute;
-    top: 50%;
+    top: 20%;
     width: 100%;
     text-align: center;
     transform: translateY(-50%);
