@@ -152,8 +152,8 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/iza-www-v2.png');
-  /*background: repeating-linear-gradient(#FFFFFF, #FFFFFF 49.9%, #2B2E34 50.1%, #2B2E34 100%);*/
+  /*background-image: url('../img/iza-www-v2.png');*/
+  background: repeating-linear-gradient(#FFFFFF, #FFFFFF 49.9%, #2B2E34 50.1%, #2B2E34 100%);
   text-align: center;
   color: black;
 }
