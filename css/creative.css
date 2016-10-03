@@ -212,7 +212,7 @@ header .header-content .header-content-inner p {
   }
   header .header-content .header-content-inner-own {
     position: absolute;
-    top: 50px;
+    top: 30px;
     width: 100%;
     left: 5%;
     text-align: left;
